@@ -1,0 +1,3 @@
+Vader-NLTK - https://www.pingshiuanchua.com/blog/post/simple-sentiment-analysis-python
+Learn ML - https://kaggle.com/learn/overview
+Digit - http://hanzratech.in/2015/02/24/handwritten-digit-recognition-using-opencv-sklearn-and-python.html

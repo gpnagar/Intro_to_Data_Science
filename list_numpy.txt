@@ -1,0 +1,29 @@
+import time
+import numpy as np
+
+size_of_vec = 1000
+
+def pure_python_version():
+    t1 = time.time()
+    X = range(size_of_vec)
+    Y = range(size_of_vec)
+    Z = [X[i] + Y[i] for i in range(len(X)) ]
+    return time.time() - t1
+
+def numpy_version():
+    t1 = time.time()
+    X = np.arange(size_of_vec)
+    Y = np.arange(size_of_vec)
+    Z = X + Y
+    return time.time() - t1
+
+
+t1 = pure_python_version()
+t2 = numpy_version()
+print("Python Lists: ",t1)
+print("Numpy: ",t2)
+
+if t1 > t2:
+    print(f"Pure Python Version: {t1}")
+else:
+    print(f"Numpy version : {t2}")
