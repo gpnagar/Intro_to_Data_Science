@@ -1,0 +1,3 @@
+Anaconda, jupyter notebooks
+ScikIt_learn - Linear Regression, Polynomial Regression
+Iris Dataset - https://www.kaggle.com/uciml/iris
