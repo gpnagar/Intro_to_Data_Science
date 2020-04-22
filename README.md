@@ -8,4 +8,4 @@ This repo containes all the resources used in the course.
 - [Sentiment Analysis using NLTK](4.SentimentAnalysis.ipynb)
 - [Cat Dog Classifier using pretrained Model in TensorFlow 2](5.CatDogTF2.ipynb)
 
-[Video of this short course](https://drive.google.com/open?id=1cZTghcq6-QA84WawzkzRXyp6crB14uth)
+## [Video of this short course](https://drive.google.com/open?id=1cZTghcq6-QA84WawzkzRXyp6crB14uth)
