@@ -1,5 +1,5 @@
 # Intro_to_Data_Science
-Covering some basic ML tools -> Conda, Jupyter, Matplotlib, Pandas, Numpy, Scikit-Learn, Tensroflow
+Covering some basic ML tools -> Conda, Jupyter, Matplotlib, Pandas, Numpy, Scikit-Learn, TensorFlow
 
 This repo containes all the resources used in the course.
 - [Linear Regression](1.Linear_regression.ipynb)
